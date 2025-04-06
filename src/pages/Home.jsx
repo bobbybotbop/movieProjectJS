@@ -1,3 +1,5 @@
+import "../CSS/Home.css";
+
 import MovieCard from "../Components/MovieCard";
 import { useState } from "react";
 
@@ -32,7 +34,7 @@ function Home() {
         </button>
       </form>
 
-      <div className="movieGrid">
+      <div className="movies-grid">
         {movies.map(
           (movie) =>
             movie.title.toLowerCase().startsWith(searchQuery) && (
