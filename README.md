@@ -1,8 +1,10 @@
-# React + Vite
+This project uses ReactJS and implements themoviedb.org's api to provide up to date information about movies. This website has the capability to search for any movie in this database.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+------------------------------------------------------------------------------------------------------------------------------
+![2025-04-08 18-37-53](https://github.com/user-attachments/assets/3e9ea2d6-7918-4ac2-b626-be87769bec00)
 
-Currently, two official plugins are available:
+The home page features the most popular movies currently and receives up to date information from themoviedb.org
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![2025-04-08 18-44-43](https://github.com/user-attachments/assets/f0d26cfd-9340-4c0f-806f-376cd04cc9ee)
+
+capability to search the entire database for a movie
